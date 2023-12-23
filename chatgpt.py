@@ -4,7 +4,7 @@ import time
 import openai
 
 openai.api_type = "azure"
-openai.api_key = "7d86bd0519b4468f8a1bf711708f8f11"
+openai.api_key = "API_KEY" # Özel api key buraya eklenir
 openai.api_version = "2023-03-15-preview"
 openai.api_base = "https://girisimgpt.openai.azure.com/"
 
