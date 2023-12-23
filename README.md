@@ -4,7 +4,7 @@
 ## Adımlar 
 
 1. Python indirin
-   https://www.python.org/downloads/
+   [https://www.python.org/downloads/release/python-3100/](https://www.python.org/downloads/release/python-3100/)
    Python'u bu adresten indirip kurabilirsiniz
    
    ![image](https://github.com/tuncaytopcu/girisimgpt/assets/44064787/b239afd9-0be2-4dbc-b76b-b9e2b54bb8cd)
